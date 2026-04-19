@@ -90,3 +90,9 @@ Se observa que el algoritmo Óptimo presenta un mejor rendimiento en términos d
    * Traducción de direcciones
    * Fallos de página
    * Resultados de algoritmos FIFO y OPT
+
+---
+## Colaboradores 
+  * Carlos Alberto Narváes Moran     Carnet: NM25012
+  * William Eduardo Torres Serrano   Carnet: TS25003
+  * Joseline Rosibel Aldana Aldana   Carnet: AA13081
