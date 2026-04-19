@@ -1,4 +1,3 @@
-# PROYECTO_INTEGRADOR1_UNIDAD1_MED
 Proyecto integrador de la unidad 1, de la asignatura Manejo y Estructura de Datos.
 #  Simulador de Gestión de Memoria (MMU) en PSeInt
 
@@ -64,7 +63,7 @@ Selecciona la página que tardará más tiempo en volver a ser utilizada, minimi
 
 El sistema contabiliza la cantidad de fallos de página generados por cada algoritmo y permite comparar su eficiencia.
 
-### ✔️ Objetivos cumplidos:
+### Objetivos cumplidos:
 
 * Detección automática de fallos de página.
 * Implementación del algoritmo FIFO.
@@ -91,9 +90,3 @@ Se observa que el algoritmo Óptimo presenta un mejor rendimiento en términos d
    * Traducción de direcciones
    * Fallos de página
    * Resultados de algoritmos FIFO y OPT
-
----
-
-## 👨‍💻 Autor
-
-Proyecto desarrollado como parte de la unidad de estudio de gestión de memoria.
