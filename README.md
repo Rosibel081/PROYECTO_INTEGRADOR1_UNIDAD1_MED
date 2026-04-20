@@ -93,6 +93,6 @@ Se observa que el algoritmo Óptimo presenta un mejor rendimiento en términos d
 
 ---
 ## Colaboradores 
-  * Carlos Alberto Narváes Moran (NM2501)
+  * Carlos Alberto Narváes Moran (NM25012)
   * William Eduardo Torres Serrano (TS25003)
   * Joseline Rosibel Aldana Aldana (AA13081)
