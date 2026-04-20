@@ -1,3 +1,4 @@
+//FASE 3
 Algoritmo SimuladorReemplazoPaginas
 	
 	Definir CANT_MARCOS_USUARIO Como Entero
