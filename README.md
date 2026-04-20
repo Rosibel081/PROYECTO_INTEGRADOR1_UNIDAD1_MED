@@ -8,6 +8,11 @@ Este proyecto consiste en el desarrollo de un simulador de la **Unidad de Admini
 El simulador permite comprender el proceso de traducción de direcciones lógicas a físicas y la gestión de fallos de página en un entorno controlado.
 
 
+## Repositorio:
+
+https://github.com/Rosibel081/PROYECTO_INTEGRADOR1_UNIDAD1_MED
+
+
 ## Fase 1: Estructuras de Datos y Asignación de Memoria
 
 En esta fase se implementa el módulo **Administrador de Memoria**, encargado de representar el estado de la memoria RAM.
